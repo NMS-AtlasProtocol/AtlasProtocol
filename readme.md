@@ -51,7 +51,7 @@ The compiled standalone binary executable will generate directly inside your loc
 
 ## ❤️ Support the Protocol Development
 
-This protocol utility was written completely in an afternoon out of pure passion for the *No Man's Sky* community and is distributed 100% free, ad-free, and open-source. 
+This protocol utility was written completely out of pure passion for the *No Man's Sky* community and is distributed 100% free, ad-free, and open-source. 
 
 If this tool saved you hours of tedious milestone grinding and you would like to support continuous optimization or fund the development of **Version 2.0 (The Live Nanite/Quicksilver Wallet Injector & Inventory Tech Slot Multiplier Tab)**, consider throwing a tip into the project warp drive!
 
